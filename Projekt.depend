@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1607015849 source:d:\codeblocks\projekty\projekt\main.cpp
+	<iostream>
+	<cstdlib>
+	<time.h>
+	<stdio.h>
+	<fstream>
+
